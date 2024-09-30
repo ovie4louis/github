@@ -1,2 +1,1 @@
-my name is ovie
-and 
+my name is ovie is alx student
